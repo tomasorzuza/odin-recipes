@@ -1,0 +1,26 @@
+.titulon {
+    font-weight: bold;
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+div {
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button {
+    color: black;
+    background-color: yellow;
+}
+p {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+img {
+    height: 500px;
+    width: 1000px;
+}
