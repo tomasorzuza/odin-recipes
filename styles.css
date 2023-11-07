@@ -1,4 +1,10 @@
 .titulon {
+    background-color: brown;
+    margin-left: 650px;
+    margin-right: 650px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 30px;
     font-weight: bold;
     font-size: 50px;
     color: black;
@@ -8,7 +14,7 @@
 div {
     text-align: center;
     color: black;
-    font-size: 15px;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
 button {
@@ -21,6 +27,38 @@ p {
     text-align: center;
 }
 img {
-    height: 500px;
-    width: 1000px;
+    height: 400px;
+    width: 800px;
+    border: solid brown;
+}
+ul {
+    margin-left: 830px;
+    margin-right: 830px;
+    background-color: white;
+    border: 2px solid brown;
+}
+li {
+    padding: 2px;
+    margin: 2px;
+    color: brown;
+    background-color: transparent;
+}
+a {
+    color: black;
+    font-size: 20px;
+    background-color: transparent;
+}
+* {
+background-color: burlywood;
+}
+.boton {
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    margin-left: 1500px;
+    margin-top: auto;
 }
